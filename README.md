@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
+
 # 💫 About Me:
 <h3 align="center">A passionate frontend developer</h3>
 
