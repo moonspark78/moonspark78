@@ -4,7 +4,7 @@
 # 💫 About Me:
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="center"><img  alt="Coding" width="400" <iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>"></p>
+<p align="center"><img  alt="Coding" width="400" <iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
 <br><br>🌱 I’m currently learning TypeScript, React, NodeJs
 
 
