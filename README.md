@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="GIF"></p>
 <br><br><br><br>🌱 I’m currently learning TypeScript, React, NodeJs
-<br><br><h2>Latest completed projects:</h2>
+<br><br><h2>Latest completed projects (Derniers projets réalisés):</h2>
 
 <div style="
   display: grid;
@@ -32,7 +32,7 @@
     <h3 style="margin: 0; font-weight: bold;">Sixth: <a href="https://track-p-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Tracking Project</a></h3>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin: 0; font-weight: bold;">Seventh: <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Project 7</a></h3>
+    <h3 style="margin: 0; font-weight: bold;">Seventh: <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">TechDev</a></h3>
   </div>
 </div>
 
