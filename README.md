@@ -11,30 +11,38 @@
 <div style="
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
+  gap: 30px;
 ">
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    First: <a href="https://job-portal-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Job Portal</a>
+    <h3 style="margin: 0; font-weight: bold;">First:</h3>
+    <a href="https://job-portal-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Job Portal</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Second: <a href="https://agency-website-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Agency Website</a>
+    <h3 style="margin: 0; font-weight: bold;">Second:</h3>
+    <a href="https://agency-website-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Agency Website</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Third: <a href="https://ui-ux-web-site-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Monitoring Website</a>
+    <h3 style="margin: 0; font-weight: bold;">Third:</h3>
+    <a href="https://ui-ux-web-site-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Monitoring Website</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Fourth: <a href="https://invest-project-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Investor Website</a>
+    <h3 style="margin: 0; font-weight: bold;">Fourth:</h3>
+    <a href="https://invest-project-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Investor Website</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Fifth: <a href="https://real-estate-iota-olive.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Real Estate</a>
+    <h3 style="margin: 0; font-weight: bold;">Fifth:</h3>
+    <a href="https://real-estate-iota-olive.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Real Estate</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Sixth: <a href="https://track-p-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Tracking Project</a>
+    <h3 style="margin: 0; font-weight: bold;">Sixth:</h3>
+    <a href="https://track-p-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Tracking Project</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Seventh: <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">TechDev</a>
+    <h3 style="margin: 0; font-weight: bold;">Seventh:</h3>
+    <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Project 7</a>
   </div>
 </div>
+
 
 <br><br>
 
