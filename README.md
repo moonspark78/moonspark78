@@ -7,12 +7,36 @@
 <p align="center"> <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="GIF"></p>
 <br><br><br><br>🌱 I’m currently learning TypeScript, React, NodeJs
 <br><br><h2>Latest completed projects:</h2>
-<h3 style="font-weight: bold;">First : <a href="https://job-portal-next-js.vercel.app/" target="_blank">Job Portal</a></h3>
-<h3 style="font-weight: bold;">Second : <a href="https://agency-website-next-js.vercel.app/" target="_blank">Agency Website</a></h3>
-<h3 style="font-weight: bold;">Third : <a href="https://ui-ux-web-site-next-js.vercel.app/" target="_blank">Monitoring Website</a></h3>
-<h3 style="font-weight: bold;">Fourth : <a href="https://invest-project-next-js.vercel.app/" target="_blank">Investor Website</a></h3>
-<h3 style="font-weight: bold;">Fifth : <a href="https://real-estate-iota-olive.vercel.app/" target="_blank">Real Estate</a></h3>
-<h3 style="font-weight: bold;">Sixth : <a href="https://track-p-next-js.vercel.app/" target="_blank">Tracking Project</a></h3><br><br>
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+">
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    First: <a href="https://job-portal-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Job Portal</a>
+  </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    Second: <a href="https://agency-website-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Agency Website</a>
+  </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    Third: <a href="https://ui-ux-web-site-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Monitoring Website</a>
+  </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    Fourth: <a href="https://invest-project-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Investor Website</a>
+  </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    Fifth: <a href="https://real-estate-iota-olive.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Real Estate</a>
+  </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    Sixth: <a href="https://track-p-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Tracking Project</a>
+  </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    Seventh: <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Project 7</a>
+  </div>
+</div>
+
+<br><br>
 
 
 
