@@ -32,7 +32,7 @@
     Sixth: <a href="https://track-p-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Tracking Project</a>
   </div>
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Seventh: <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Project 7</a>
+    Seventh: <a href="https://tech-dev-next-js.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">TechDev</a>
   </div>
 </div>
 
