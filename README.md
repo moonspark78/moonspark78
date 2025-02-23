@@ -37,6 +37,9 @@
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3 style="margin: 0; font-weight: bold;">Eighth: <a href="https://nft-next-js-project.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">CryptoDev</a></h3>
   </div>
+  <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin: 0; font-weight: bold;">Ninth: <a href="https://redux-shopping-cart-sooty.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Redux ShoppingCart</a></h3>
+  </div>
 </div>
 
 
