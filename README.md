@@ -40,6 +40,9 @@
   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3 style="margin: 0; font-weight: bold;">Ninth: <a href="https://redux-shopping-cart-sooty.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">Redux ShoppingCart</a></h3>
   </div>
+   <div style="background: #fff; padding: 15px; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin: 0; font-weight: bold;">Tenth: <a href="https://object-detection-tensorflow-lake.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-size: 14px;">AI person and object detection</a></h3>
+  </div>
 </div>
 
 
