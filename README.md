@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="center"> <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="GIF"></p>
-<br><br><br><br>🌱 I’m currently working with TypeScript, React, NodeJs and Python
+<br><br><br><br>🌱 I’m currently working with TypeScript, React, NodeJs, NestJS and Python
 <br><br><h2>Latest completed projects (Derniers projets réalisés):</h2>
 
 <div style="
